@@ -1,5 +1,7 @@
 import numpy as np
 import pandas as pd 
+#Código em Python desenvolvido por Nício Murilo para o primeiro Trabalho de Economia,
+#Em Conjunto e parceria de Abraão Coelho e Letícia Pereira.
 
 colunas = [20     ,22     ,24     ,26     ,27     ,28       ,30    ]#columns
 linhas = [70,72,74,76,78,80,81,82]#index
